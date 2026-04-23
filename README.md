@@ -20,5 +20,5 @@ MamoF1 è disponibile in due versioni:
 - 📱 Android (APK) – installabile manualmente su dispositivi Android (APK nella sezione release)
 
 
-MamoF1 è stata sviluppata usando l'engine Construct 3 e sfrutta le API pubbliche di OpenF1 per fornire dati dettagliati e aggiornati direttamente dalle sessioni ufficiali.
+MamoF1 è stata sviluppata usando l'engine Construct 3 e sfrutta le API pubbliche di OpenF1 (https://openf1.org/) per fornire dati dettagliati e aggiornati direttamente dalle sessioni ufficiali.
 
