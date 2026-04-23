@@ -1,4 +1,5 @@
 🏎️ MamoF1
+
 MamoF1 è un'applicazione che permette di esplorare, analizzare e confrontare le statistiche e i dati di telemetria dei piloti dell’ultima gara di Formula 1.
 
 ✨ Funzionalità
