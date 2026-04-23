@@ -14,8 +14,7 @@ MamoF1 è un'applicazione che permette di esplorare, analizzare e confrontare le
 - 🗺️ Visualizzazione delle statistiche del circuito dell’ultima sessione
 
 
-🌐 Disponibilità
-MamoF1 è disponibile in due versioni:
+📍 Come usare MamoF1
 - 💻 Web App – accessibile direttamente da browser al link: https://mamof1.netlify.app/
 - 📱 Android (APK) – installabile manualmente su dispositivi Android (APK nella sezione release)
 
