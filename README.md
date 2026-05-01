@@ -21,6 +21,13 @@ MamoF1 è un'applicazione che permette di esplorare, analizzare e confrontare le
 
 MamoF1 è stata sviluppata usando l'engine Construct 3 e sfrutta le API pubbliche di OpenF1 (https://openf1.org/) per fornire dati dettagliati e aggiornati direttamente dalle sessioni ufficiali.
 
+📊 Analisi dei giri di gara del pilota e telemetria del relativo giro
 <img width="1080" height="2400" alt="Home_1" src="https://github.com/user-attachments/assets/71894fd1-c1b8-4ee2-aedd-49c8078038ab" />
 
+🆚 Sezione "Head To Head" dove confrontare la telemetria di ogni giro di tutti i piloti:
+  - Acceleratore
+  - Freno
+  - Marcia
+  - Velocità
+  - RPM
 <img width="1080" height="2400" alt="HeadToHead_2" src="https://github.com/user-attachments/assets/1e9e0444-bb83-4d40-9713-153e0c9186e8" />
