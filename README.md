@@ -1,3 +1,5 @@
+<img width="1080" height="2400" alt="HeadToHead_2" src="https://github.com/user-attachments/assets/1e9e0444-bb83-4d40-9713-153e0c9186e8" />
+<img width="1080" height="2400" alt="Home_1" src="https://github.com/user-attachments/assets/71894fd1-c1b8-4ee2-aedd-49c8078038ab" />
 🏎️ MamoF1
 
 MamoF1 è un'applicazione che permette di esplorare, analizzare e confrontare le statistiche e i dati di telemetria dei piloti dell’ultima sessione di Formula 1 (prove libere, qualifica, sprint race e gara).
